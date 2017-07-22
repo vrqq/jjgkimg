@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "avtest/ViewController.swift"
+            timestampString = "517849319.20108"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "handleTakePhotoBtb(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "avtest/PhotoCaptureDelegate.swift"
+            timestampString = "517679565.358757"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "capture(_:didFinishProcessingPhotoSampleBuffer:previewPhotoSampleBuffer:resolvedSettings:bracketSettings:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "avtest/PhotoCaptureDelegate.swift"
+            timestampString = "517679565.358757"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "capture(_:didFinishCaptureForResolvedSettings:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "avtest.PhotoCaptureDelegate.capture (__ObjC.AVCapturePhotoOutput, didFinishCaptureForResolvedSettings : __ObjC.AVCaptureResolvedPhotoSettings, error : Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "avtest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vrqq/Code/jijianguankong/avtest/avtest/PhotoCaptureDelegate.swift"
+                  timestampString = "517651103.024697"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "avtest.PhotoCaptureDelegate.(capture (__ObjC.AVCapturePhotoOutput, didFinishCaptureForResolvedSettings : __ObjC.AVCaptureResolvedPhotoSettings, error : Swift.Optional&lt;Swift.Error&gt;) -&gt; ()).(closure #1)"
+                  moduleName = "avtest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vrqq/Code/jijianguankong/avtest/avtest/PhotoCaptureDelegate.swift"
+                  timestampString = "517651103.027054"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "avtest/PhotoCaptureDelegate.swift"
+            timestampString = "517679565.358757"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "capture(_:didFinishCaptureForResolvedSettings:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "avtest.PhotoCaptureDelegate.(capture (__ObjC.AVCapturePhotoOutput, didFinishCaptureForResolvedSettings : __ObjC.AVCaptureResolvedPhotoSettings, error : Swift.Optional&lt;Swift.Error&gt;) -&gt; ()).(closure #1)"
+                  moduleName = "avtest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vrqq/Code/jijianguankong/avtest/avtest/PhotoCaptureDelegate.swift"
+                  timestampString = "517651943.710002"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "avtest.PhotoCaptureDelegate.(capture (__ObjC.AVCapturePhotoOutput, didFinishCaptureForResolvedSettings : __ObjC.AVCaptureResolvedPhotoSettings, error : Swift.Optional&lt;Swift.Error&gt;) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "avtest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vrqq/Code/jijianguankong/avtest/avtest/PhotoCaptureDelegate.swift"
+                  timestampString = "517651943.714336"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

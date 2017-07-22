@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.(handleTakePhotoBtb(UIButton) -&gt; ()).(closure #1):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PhotoCaptureDelegate.capture(AVCapturePhotoOutput, didFinishProcessingPhotoSampleBuffer : CMSampleBuffer?, previewPhotoSampleBuffer : CMSampleBuffer?, resolvedSettings : AVCaptureResolvedPhotoSettings, bracketSettings : AVCaptureBracketedStillImageSettings?, error : Error?) -&gt; ():PhotoCaptureDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "photoData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
